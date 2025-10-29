@@ -1,0 +1,1 @@
+This repository contains a detailed sales analysis for a coffee shop chain with 3 locations over the period of January to June 2023. The goal is to understand revenue trends, customer behaviour, and identify actionable sttrategies to drive sales growth.
